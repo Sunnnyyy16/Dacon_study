@@ -20,4 +20,4 @@
 ### 5. 물류 유통량 예측 경진대회
 * [competition description](https://dacon.io/competitions/official/235867/overview/description) 
 * 참여기간: 23.01.03 -
-
+* 실습파일: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/Dacon_study/blob/main/logistics/logistics_distribution.ipynb)
