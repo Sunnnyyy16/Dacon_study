@@ -19,5 +19,9 @@
 * 실습파일: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/Dacon_study/blob/main/FIFA/FIFA_payment.ipynb#scrollTo=_OT20SixzlRi)
 ### 5. 물류 유통량 예측 경진대회
 * [competition description](https://dacon.io/competitions/official/235867/overview/description) 
-* 참여기간: 23.01.03 -
+* 참여기간: 23.01.03 - 23.01.10
 * 실습파일: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/Dacon_study/blob/main/logistics/logistics_distribution.ipynb)
+### 6. 제주도 도로 교통량 예측 AI 경진대회
+* [competition description](https://dacon.io/competitions/official/235985/overview/description)
+* 참여기간 : 23.01.11 -
+* 실습파일:
