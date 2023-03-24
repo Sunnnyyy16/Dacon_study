@@ -23,9 +23,9 @@
 * 실습파일: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/Dacon_study/blob/main/logistics/logistics_distribution.ipynb)
 ### 6. 제주도 도로 교통량 예측 AI 경진대회
 * [competition description](https://dacon.io/competitions/official/235985/overview/description)
-* 참여기간: 2023.JAN.11 - 23.FEB.10
+* 참여기간: 2023.JAN.11 - 2023.FEB.10
 * 실습파일: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/Dacon_study/blob/main/Jeju_road/Jeju_road.ipynb)
 ### 7. 건설기계 오일 상태 분류 AI 경진대회
 * [competition description](https://dacon.io/competitions/official/236013/overview/description)
-* 참여기간: 2023.FEB.10 -
+* 참여기간: 2023.FEB.10 - 2023.MAR.
 * 실습파일: 
