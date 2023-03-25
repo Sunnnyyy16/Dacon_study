@@ -40,6 +40,3 @@
 * [competition description](https://dacon.io/competitions/official/236038/overview/description)
 * 참여기간: 2023.MAR.25 - 
 * 실습파일:
-* [competition description](https://dacon.io/competitions/official/236013/overview/description)
-* 참여기간: 2023.FEB.10 - 2023.MAR.
-* 실습파일: 
